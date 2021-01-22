@@ -6,9 +6,7 @@ This project utilizes the Naive-Bayes machine learning algorithm to train and te
 
 ## How to Run
 
-1. Install NLTK and Python 3.8
-   - http://www.nltk.org/install.html
-   - https://www.python.org/downloads/
+1. Install [NLTK](http://www.nltk.org/install.html) and [Python 3.8+](https://www.python.org/downloads/)
 2. Open your Python interpreter
 3. Go to your project folder
 4. `python TextCategorizer.py` to run the Python script.
