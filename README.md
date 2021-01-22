@@ -2,7 +2,7 @@
 
 ## Description
 
-​	This project utilizes the Naive-Bayes machine learning algorithm to train and test a text categorization system. To use the program, simply run the Python file, enter the name of a file that lists file paths to labeled training data and unlabeled testing data in your corpora, and wait for the program to complete. The program will generate an output file with predicted category labels for all articles in your test file.
+This project utilizes the Naive-Bayes machine learning algorithm to train and test a text categorization system. To use the program, simply run the Python file, enter the name of a file that lists file paths to labeled training data and unlabeled testing data in your corpora, and wait for the program to complete. The program will generate an output file with predicted category labels for all articles in your test file.
 
 ## How to Run
 
@@ -26,4 +26,4 @@
 
 ## Testing
 
-​	In order to evaluate the categorization system's performance for the second and third data sets, the corpora files were portioned into a smaller training and testing set, then categorized manually in order to compare results using the analyze.pl Perl script. Only a small portion of the corpora was used as testing data (under 10%), in order to minimize the time-consuming labor of manual categorization. Because the datasets were sufficiently large, I assumed this would not pose any significant issues.
+In order to evaluate the categorization system's performance for the second and third data sets, the corpora files were portioned into a smaller training and testing set, then categorized manually in order to compare results using the analyze.pl Perl script. Only a small portion of the corpora was used as testing data (under 10%), in order to minimize the time-consuming labor of manual categorization. Because the datasets were sufficiently large, I assumed this would not pose any significant issues.
